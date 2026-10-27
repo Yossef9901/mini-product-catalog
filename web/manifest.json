@@ -1,0 +1,10 @@
+{
+  "name": "Mini Product Catalog",
+  "short_name": "Product Catalog",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3f51b5",
+  "description": "Mini Product Catalog Flutter homework app",
+  "orientation": "portrait-primary"
+}
